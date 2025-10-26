@@ -1,4 +1,4 @@
-#🤖 Task 2: Smart FAQ Chatbot with NLP
+🤖 Task 2: Smart FAQ Chatbot with NLP
 
 Meet your AI-powered tech buddy:
 
